@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Secret0-OchkA
-- 👀 I’m interested in c++ and c#
+- 👀 I’m interested in c#
 - 📫 me discord Secret0_OchkA#0231
 
 <!---
