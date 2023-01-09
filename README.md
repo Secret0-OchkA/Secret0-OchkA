@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Secret0-OchkA
+- 👋 Hi, I’m @SecretochkA
 
 <!---
 Secret0-OchkA/Secret0-OchkA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
