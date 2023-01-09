@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Secret0-OchkA
-- 👀 I’m interested in c#
-- 📫 me discord Secret0_OchkA#0231
 
 <!---
 Secret0-OchkA/Secret0-OchkA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
