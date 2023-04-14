@@ -1,7 +1,7 @@
 ![header](/header.png)
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Secret0-OchkA&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Secret0-OchkA&theme=radical" alt="mystreak"/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Secret0-OchkA&include_all_commits=true&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
