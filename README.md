@@ -1,7 +1,7 @@
 ![header](/header.png)
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Secret0-OchkA&theme=radical" alt="mystreak"/> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Secret0-OchkA&include_all_commits=true&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Secret0-OchkA&theme=radical&card_width=300" alt="mystreak"/> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Secret0-OchkA&include_all_commits=true&count_private=true&show_icons=true&theme=radical&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
